@@ -1,0 +1,1 @@
+{"fps": 26.7, "frame_count": 1734, "elapsed_sec": 63, "alert_level": "CRITICAL", "alert_msg": "Multiple persons: 3", "direction": "CENTER", "gaze": "LEFT", "person_count": 3, "phone": false, "objects": [], "counts": {"LOW": 833, "MEDIUM": 114, "HIGH": 43, "CRITICAL": 1712}, "screenshots": 72, "peak_fps": 26.7, "timestamp": "15:50:38"}

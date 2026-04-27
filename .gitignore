@@ -1,0 +1,23 @@
+venv/
+venv310/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ML models
+*.pt
+*.pth
+*.h5
+
+# datasets
+datasets/
+data/
+
+# images (optional but recommended)
+evidence/
+*.jpg
+
+# system files
+.DS_Store
