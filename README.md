@@ -268,6 +268,15 @@ The system produces three types of output per session:
 | LOOKING AWAY | Head direction ≠ CENTER | `⚠ LOOKING AWAY` (orange) |
 | EYES OFF SCREEN | Gaze ≠ CENTER | `⚠ EYES OFF SCREEN` (orange) |
 
+
+
+
+### Evidence Snapshot:-
+<img width="264" height="198" alt="image" src="https://github.com/user-attachments/assets/6261411c-5229-4637-ada2-ee0e4a6300ba" />
+
+<img width="520" height="238" alt="image" src="https://github.com/user-attachments/assets/3553893e-15c7-4be0-9d71-7abaaa8ee9a2" />
+
+
 ### Performance Metrics
 
 **FPS by Platform:**
